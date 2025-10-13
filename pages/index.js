@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Se fosse um prato de comida ia entender rápido.</h1>;
+  return <h1>Sexta-feira é dia de dar deploy!</h1>;
 }
 
 export default Home;
