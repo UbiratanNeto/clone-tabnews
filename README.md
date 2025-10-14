@@ -1,2 +1,3 @@
 # clone-tabnews
-Curso do Felipe Deschamps - curso.dev 
+
+Curso do Felipe Deschamps - curso.dev
